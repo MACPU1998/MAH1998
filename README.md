@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-- ✨ I’m currently working on FLUTTER , LARAVEL
+- ✨ I’m currently working on LARAVEL , Node.js
 - 🌱 I’m always learning :) 
 - 💬 I like sports and reading
 - 🧑‍💻 
